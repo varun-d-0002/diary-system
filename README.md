@@ -7,13 +7,17 @@ Task Manager was done using Mongo Db, Express Js, React Js, Node Js  [MERN] stac
 
 Image Gallery is the place where we can drag and drop or select images which statically stored. We can upload or just drag and drop multiple images at once. Upon refreshing the page all the images are removed. 
 
-Very Soon will be coming up with more updates to upgrade this project, So stay tuned and come back and check this Repo… 
+Soon will be coming up with more updates to upgrade this project, Do come back and check for more updates.. 
 
 Steps:
+
 1] Download the code zip file or clone the project using URL.
+
 2] Open with any code Editor
+
 3] Run the command npm install on terminal to install all the packages
+
 4] Run the command npm start for each component to run on respective ports.
 
-Stay tuned more updates to come...
-Happy Coding!!!
+Stay tuned more updates to come....
+Happy Coding !!!
